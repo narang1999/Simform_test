@@ -1,0 +1,18 @@
+com/example/simform_test/BuildConfig.java
+ com.example.simform_test.BuildConfig
+com/example/simform_test/databinding/UserDetailBinding.java
+ com.example.simform_test.databinding.UserDetailBinding
+com/example/simform_test/databinding/UserItemBinding.java
+ com.example.simform_test.databinding.UserItemBinding
+com/example/simform_test/view/main/UsersDirections.java
+ com.example.simform_test.view.main.UsersDirections
+ com.example.simform_test.view.main.UsersDirections$1
+ com.example.simform_test.view.main.UsersDirections$ActionUsersToUserDetail
+com/example/simform_test/databinding/UsersFragmentBinding.java
+ com.example.simform_test.databinding.UsersFragmentBinding
+com/example/simform_test/databinding/ActivityMainBinding.java
+ com.example.simform_test.databinding.ActivityMainBinding
+com/example/simform_test/view/main/UserDetailArgs.java
+ com.example.simform_test.view.main.UserDetailArgs
+ com.example.simform_test.view.main.UserDetailArgs$1
+ com.example.simform_test.view.main.UserDetailArgs$Builder

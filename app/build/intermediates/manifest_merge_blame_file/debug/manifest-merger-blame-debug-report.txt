@@ -1,0 +1,66 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.simform_test"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:4:22-64
+12
+13    <application
+13-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:6:5-25:19
+14        android:name="com.example.simform_test.SimformApplication"
+14-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:7:9-43
+15        android:allowBackup="true"
+15-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:8:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.7.0] C:\Users\A94860736\.gradle\caches\transforms-3\44168367b65f1eaa829e8df7b3dff920\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:9:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:10:9-41
+21        android:networkSecurityConfig="@xml/network_config"
+21-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:12:9-60
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:11:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:14:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.Simform_test" >
+25-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:15:9-50
+26        <activity
+26-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:16:9-24:20
+27            android:name="com.example.simform_test.MainActivity"
+27-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:17:13-41
+28            android:exported="true" >
+28-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:18:13-36
+29            <intent-filter>
+29-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:19:13-23:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:20:17-69
+30-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:20:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:22:17-77
+32-->C:\Users\A94860736\Documents\Simform_test\app\src\main\AndroidManifest.xml:22:27-74
+33            </intent-filter>
+34        </activity>
+35
+36        <meta-data
+36-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\A94860736\.gradle\caches\transforms-3\574912ff193a3e091dd504372094238f\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:11:9-13:43
+37            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+37-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\A94860736\.gradle\caches\transforms-3\574912ff193a3e091dd504372094238f\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:12:13-84
+38            android:value="GlideModule" />
+38-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\A94860736\.gradle\caches\transforms-3\574912ff193a3e091dd504372094238f\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:13:13-40
+39    </application>
+40
+41</manifest>

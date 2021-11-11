@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\A94860736\\Documents\\Simform_test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\user_item.xml",
+        "source": "C:\\Users\\A94860736\\Documents\\Simform_test\\app\\src\\main\\res\\layout\\user_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\A94860736\\Documents\\Simform_test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\user_detail.xml",
+        "source": "C:\\Users\\A94860736\\Documents\\Simform_test\\app\\src\\main\\res\\layout\\user_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\A94860736\\Documents\\Simform_test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\A94860736\\Documents\\Simform_test\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\A94860736\\Documents\\Simform_test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\users_fragment.xml",
+        "source": "C:\\Users\\A94860736\\Documents\\Simform_test\\app\\src\\main\\res\\layout\\users_fragment.xml"
+    }
+]
